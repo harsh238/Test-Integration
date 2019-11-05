@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="servicenowstorelink" max_length="40" name="x_378482_serviceno_servicenowstorelink" type="collection"/>
+</database>
